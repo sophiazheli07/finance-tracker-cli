@@ -47,6 +47,8 @@ finance_tracker/
 │   ├── validators.py     # Regex-based input validation and lambdas
 │   └── exceptions.py     # Custom exception hierarchy
 ├── data/                 # Auto-created — stores transaction.json, budgets.json, audit.log
+├── tests/                # Unit tests for tracker and storage
+|    └── test_regressions.py              
 └── exports/              # Auto-created — stores exported files
 ```
 
