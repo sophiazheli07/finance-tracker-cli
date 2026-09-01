@@ -20,7 +20,7 @@ A command-line application for tracking income and expenses, managing budgets, a
 
 ```bash
 # Clone or download the project, then:
-cd Finance-Tracker
+cd finance-tracker-cli
 python main.py
 ```
 
